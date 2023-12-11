@@ -47,6 +47,8 @@ while(video.isOpened()):
 
 # Release resources code ...
 ```
+![Colorization Demo 1](https://github.com/ambrosemcduffy/UnetImageColorizer/blob/main/colorizedImage1.gif?raw=true)
+![Colorization Demo 2](https://github.com/ambrosemcduffy/UnetImageColorizer/blob/main/colorizedImage2.gif?raw=true)
 
 ## Notes
 - The script provided in this README is a simplified representation of the project's code. It may require adjustments to fit specific use cases or to accommodate different video formats and quality.
